@@ -1,6 +1,7 @@
 # WalmartEDA
 Exploratory Data Analysis and Time Series Forecasting of Walmart Sales Data (Python)
 This repository explores and forecasts Walmart sales data using Python. It combines univariate analysis, time series forecasting techniques, and plans to incorporate multivariate analysis for a comprehensive understanding of sales patterns.
+Dataset can be found [here](https://www.kaggle.com/datasets/varsharam/walmart-sales-dataset-of-45stores/code)
 
 Current Work:
 
