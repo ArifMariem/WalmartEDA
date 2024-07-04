@@ -1,2 +1,28 @@
 # WalmartEDA
-This repository contains code and visualizations for exploratory data analysis (EDA) of Walmart sales data. The goal is to gain insights into customer behavior, product trends, and potential sales opportunities.
+Exploratory Data Analysis and Time Series Forecasting of Walmart Sales Data (Python)
+This repository explores and forecasts Walmart sales data using Python. It combines univariate analysis, time series forecasting techniques, and plans to incorporate multivariate analysis for a comprehensive understanding of sales patterns.
+
+Current Work:
+
+Univariate Analysis:
+
+Cleaned and preprocessed Walmart sales data.
+* Analyzed sales trends over time (e.g., monthly, weekly).
+* Identified top-selling products and categories.
+* Performed time series decomposition.
+
+Future Work:
+* Implemented forecasting models like ARIMA, SARIMA.
+* Evaluated model performance using metrics like RMSE or MAPE.
+
+
+Multivariate Analysis:
+* Analyze relationships between sales and other relevant variables (e.g., price, promotions, weather).
+* Utilize techniques like correlation analysis, regression analysis, or machine learning models.
+Benefits:
+
+* Gain deeper insights into sales patterns and predict future trends.
+* Identify factors influencing sales and develop targeted strategies.
+* Enhance decision-making for product placement, pricing, and promotions.
+
+
