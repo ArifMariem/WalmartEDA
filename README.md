@@ -8,21 +8,18 @@ Current Work:
 Univariate Analysis:
 
 Cleaned and preprocessed Walmart sales data.
-* Analyzed sales trends over time (e.g., monthly, weekly).
-* Identified top-selling products and categories.
+* Implemented forecasting models like ARIMA to analyse sales trends over time (e.g., monthly, weekly).
 * Performed time series decomposition.
-
-Future Work:
-* Implemented forecasting models like ARIMA, SARIMA.
-* Evaluated model performance using metrics like RMSE or MAPE.
+* Understand each variable's distribution, outliers,...
+* Fit variables to a model and evaluate performance using metrics.
 
 
 Multivariate Analysis:
-* Analyze relationships between sales and other relevant variables (e.g., price, promotions, weather).
-* Utilize techniques like correlation analysis, regression analysis, or machine learning models.
+* Analyze relationships between Weekly sales and other relevant variables (e.g., Temperature, date , Fuel price, CPI,..).
+* Utilize techniques like correlation analysis, regression analysis...
 Benefits:
 
-* Gain deeper insights into sales patterns and predict future trends.
+* Gain deeper insights into sales patterns.
 * Identify factors influencing sales and develop targeted strategies.
 * Enhance decision-making for product placement, pricing, and promotions.
 
